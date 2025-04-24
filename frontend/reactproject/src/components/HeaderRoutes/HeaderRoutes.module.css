@@ -1,0 +1,22 @@
+.headerroutes{
+    height: 10vh;
+    width: 100%;
+    position: fixed;
+    background-color: rgb(68,65,65);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 2px solid #d68e09;
+}
+
+.title{
+    width: 80%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.headerroutes a{
+    text-decoration: none;
+    font-size: 30px;
+    color: white;
+}

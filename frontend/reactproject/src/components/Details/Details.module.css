@@ -1,0 +1,33 @@
+.details{
+    width: 80%;
+    max-width: 800px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+    margin: 50px auto;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.no-item{
+    height: calc(80vh - 60px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.details p{
+    font-size: 1rem;
+    color: #696464;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}

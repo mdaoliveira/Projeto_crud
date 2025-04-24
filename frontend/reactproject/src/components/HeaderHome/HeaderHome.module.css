@@ -1,0 +1,38 @@
+.headerhome {
+    height: 90vh;
+    width: 100%;
+    background-image: url('./img/bird_home.jpg');
+    border-bottom: 2px solid #d68e09;
+    background-size: cover;
+    background-position: center;
+}
+
+.title {
+    position: absolute;
+    top: 1.5rem;
+    left: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: left;
+}
+
+.headerhome span {
+    font-size: 2rem;
+    font-weight: bold;
+    font-style: italic;
+    color: #d68e09;
+    text-shadow: 1px 1px 2px wheat;
+}
+
+.headerhome a {
+    position: absolute;
+    right: 1.5rem; 
+    top: 60px;
+    text-decoration: none;
+    font-size: 1.5rem;
+    font-weight: bold;
+    font-style: italic;
+    color: white;
+    text-shadow: 1px 1px 2px black;
+}
