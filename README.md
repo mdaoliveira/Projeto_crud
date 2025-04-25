@@ -14,11 +14,11 @@ Acessar as seguintes pastas para a instalação do _npm install_:
 npm install
 ```
 
-:warning: Instalar também o pacote _npm react-router-dom_ em _frontend/reactproject_
+:warning: Instalar também o pacote _npm install react-router-dom_ em _frontend/reactproject_
 ```bash
 # cd frontend/project
 npm install
-npm react-router-dom
+npm install react-router-dom
 ```
 
 ## Configurar Banco de Dados
